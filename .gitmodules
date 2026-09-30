@@ -1,3 +1,3 @@
 [submodule "external-libs/monero"]
 	path = external-libs/monero
-	url = http://git.anonero5wmhraxqsvzq2ncgptq6gq45qoto6fnkfwughfl4gbt44swad.onion/ANONERO/monero.git
+	url = https://github.com/666ht/XMR.git
